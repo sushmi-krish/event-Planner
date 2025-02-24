@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base:"event-Planner"
-  plugins: [react()],
+   base:"event-Planner" ,  
+   plugins: [react()],
 })
